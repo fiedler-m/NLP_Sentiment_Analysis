@@ -1,2 +1,2 @@
 # NLP_Sentiment_Analysis
-Sentiment Analysis on the Tweet-verse
+Sentiment anaylsis on the tweet-verse
